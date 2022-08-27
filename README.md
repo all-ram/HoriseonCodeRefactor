@@ -10,5 +10,5 @@ Accessibility for users, such as adding image descriptions, is just as important
 
 ##Screenshots
 
-![App Screenshot](./Develop/assets/images/horiseon-refactor.png)
+![App Screenshot](./assets/images/horiseon-refactor.png)
 
